@@ -1,2 +1,2 @@
-code for paper, Approximations to worst-case data dropping: unmasking failure modes.
+Approximations to worst-case data dropping: unmasking failure modes.
 
